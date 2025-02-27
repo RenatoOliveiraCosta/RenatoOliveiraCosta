@@ -1,5 +1,5 @@
 ## Olá! Seja muito bem-vindo(a) 👋
-<p align="left">Stats</p>
+
 
 ###
 
