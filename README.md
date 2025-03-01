@@ -1,2 +1,6 @@
 ## Olá! Seja muito bem-vindo(a) 👋
-![RenatoOliveiraCosta's Stats](https://github-readme-stats.vercel.app/api?username=RenatoOliveiraCosta&theme=dark&show_icons=true&hide_border=true&count_private=false)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenatoOliveiraCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
